@@ -10,11 +10,6 @@ I am eager to take on new challenges and contribute to cutting-edge projects tha
 - **Data Structures & Algorithms:** [Array,Binary Search , Strings ,Linked List, Recursion, Binary Tree, Heap, DP ,Graph, Tries]
 - **Web Development:** Frontend (HTML, CSS, JavaScript,Tailwind CSS,Node Js)
 
-## Projects
-Here are some projects I'm proud of:
-1. [Project Name](link to project) - Brief description.
-2. [Project Name](link to project) - Brief description.
-
 ## GitHub Stats
 ![alok7139's Stats](https://github-readme-stats.vercel.app/api?username=alok7139&theme=default&show_icons=true&hide_border=true&count_private=true)
 
