@@ -12,6 +12,7 @@ I am eager to take on new challenges and contribute to cutting-edge projects tha
 
 ## GitHub Stats
 ![alok7139's Stats](https://github-readme-stats.vercel.app/api?username=alok7139&theme=default&show_icons=true&hide_border=true&count_private=true)
+![alok7139's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alok7139&theme=default&hide_border=true)
 
 ## Let's Connect
 - LinkedIn: https://www.linkedin.com/in/alok-garg-7118b6257/
