@@ -15,7 +15,7 @@ I am eager to take on new challenges and contribute to cutting-edge projects tha
 ![alok7139's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alok7139&theme=default&hide_border=true)
 
 ## Let's Connect
-- LinkedIn: https://www.linkedin.com/in/alok-garg-7118b6257/
+- LinkedIn: www.linkedin.com/in/alok-garg-7118b6257
 - Twitter: https://twitter.com/AlokGar76235535
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
