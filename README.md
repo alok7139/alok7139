@@ -16,7 +16,8 @@ I am eager to take on new challenges and contribute to cutting-edge projects tha
 
 ## Let's Connect
 - MyPortfolio: https://alok-garg-portfolio.netlify.app/
-- MyResume: https://drive.google.com/file/d/1rdZsG8nluf2MlUtlP0jdNuBjMFQSxkJW/view?usp=sharing
+- MyResume: https: https://drive.google.com/file/d/1qd1cOdrM1YxFGYcYs7ztVkwD9nvYNs67/view
+- Leetcode_Profile : https://leetcode.com/u/alokgarg7139/
 - LinkedIn: www.linkedin.com/in/alok-garg-7118b6257
 - Twitter: https://twitter.com/AlokGar76235535
 
