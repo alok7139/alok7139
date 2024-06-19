@@ -6,9 +6,10 @@ I pride myself on my commitment to excellence and my drive to stay at the forefr
 I am eager to take on new challenges and contribute to cutting-edge projects that push the boundaries of what is possible in the world of software development.
 
 ## Skills
-- **Languages:** C++, HTML, CSS, JavaScript
+- **Languages:** C++, JAVASCRIPT, SQL , REACTJS , TAILWINDCSS
 - **Data Structures & Algorithms:** [Array,Binary Search , Strings ,Linked List, Recursion, Binary Tree, Heap, DP ,Graph, Tries]
-- **Web Development:** Frontend (HTML, CSS, JavaScript,Tailwind CSS,Node Js)
+- **Tools/Platform:** Git, Github, Docker , Cloudinary , Vercel
+- **Web Development:** FullStack Developer
 
 ## GitHub Stats
 ![alok7139's Stats](https://github-readme-stats.vercel.app/api?username=alok7139&theme=default&show_icons=true&hide_border=true&count_private=true)
