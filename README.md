@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **alokgarg7139@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12bIqgXXR7XfHNWkaFPLtmzRWSE2xnBmq/view?usp=sharing](https://drive.google.com/file/d/12bIqgXXR7XfHNWkaFPLtmzRWSE2xnBmq/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gAAl0_01LkkV0lSnvf4I_V3PUWXTAGvY/view?usp=sharing](https://drive.google.com/file/d/1gAAl0_01LkkV0lSnvf4I_V3PUWXTAGvY/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Good at DSA**
 
