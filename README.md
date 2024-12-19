@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@alokgar76235535" target="blank"><img src="https://img.shields.io/twitter/follow/@alokgar76235535?logo=twitter&style=for-the-badge" alt="@alokgar76235535" /></a> </p>
 
-- 🔭 I’m currently working on [Gallery-app](/*/)
+- 🔭 I’m currently working on [Gallery-app](https://github.com/alok7139/Gallery-app)
 
 - 🌱 I’m currently learning **NextJS**
 
